@@ -1,6 +1,6 @@
 import { motion, useReducedMotion } from "framer-motion";
 import { Link } from "react-scroll";
-import img from "./img.jpeg";
+import img from "./images/mine.jpg";
 const Content = () => {
   const shouldReduceMotion = useReducedMotion();
   const imageVariants = {
